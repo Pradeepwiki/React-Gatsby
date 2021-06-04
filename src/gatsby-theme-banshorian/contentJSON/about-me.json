@@ -1,0 +1,10 @@
+[
+  {
+    "subtitle": "About Me!",
+    "content": "I'm a <strong>Full stack developer</strong> . I started building project to learn more about new technologies. I put my efforts on learning the last trends on Development, and strive to better myself as a developer. I think one of my values is the ability to resolve problems so from the beginning I've been always focused on solving algorithms no matter the languages I used. I like to integrate systems using Gatsbyjs and GraphQL"
+  },
+  {
+    "subtitle": "Experience!",
+    "content": "I started developing software from <strong>2019</strong> free lancing, I worked creating modules for <strong>next gen</strong> client and interactive JavaScript for the web. Recently I've been hired as to work in agency as developer and tasked with porting WordPress via GraphQL to be fetched by Gatsbyjs and served as blazing fast JAMstack based static HTML sites. "
+  }
+]
